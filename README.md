@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+这里小Q！大学生。目前正在学习 TS 全栈开发。
+
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-8%20mins-blue?style=flat)
 
