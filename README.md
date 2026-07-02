@@ -3,9 +3,9 @@
 这里小Q！大学生。目前正在学习 TS 全栈开发。
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-16%20hrs%2011%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-16%20hrs%2025%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/%E8%B5%84%E6%96%99%E9%A1%B5%E6%B5%8F%E8%A7%88%E6%AC%A1%E6%95%B0-58-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/%E8%B5%84%E6%96%99%E9%A1%B5%E6%B5%8F%E8%A7%88%E6%AC%A1%E6%95%B0-0-blue?style=flat)
 
 **🐱 我的 GitHub 数据** 
 
@@ -46,19 +46,20 @@
 🕑︎ 时区: Asia/Shanghai
 
 💬 编程语言: 
-Markdown                 57 mins             ███████████████████░░░░░░   77.97 % 
-TypeScript               16 mins             ██████░░░░░░░░░░░░░░░░░░░   22.03 % 
+Markdown                 57 mins             ██████████████████░░░░░░░   71.46 % 
+TypeScript               16 mins             █████░░░░░░░░░░░░░░░░░░░░   20.19 % 
+JSON                     6 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.34 % 
 
 🔥 编辑器: 
-VS Code                  1 hr 13 mins        █████████████████████████   100.00 % 
+VS Code                  1 hr 20 mins        █████████████████████████   100.00 % 
 
 🐱‍💻 项目: 
-软件工程笔记                   57 mins             ███████████████████░░░░░░   77.97 % 
-recite-word-server       12 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.89 % 
-recite-word              3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.14 % 
+软件工程笔记                   1 hr 3 mins         ████████████████████░░░░░   79.81 % 
+recite-word-server       12 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.48 % 
+recite-word              3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.71 % 
 
 💻 操作系统: 
-Windows                  1 hr 13 mins        █████████████████████████   100.00 % 
+Windows                  1 hr 20 mins        █████████████████████████   100.00 % 
 ```
 
 **我最常使用 TypeScript** 
@@ -77,7 +78,7 @@ Vue                      1 repo              ████░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/little-q-exist/little-q-exist/main/assets/bar_graph.png)
 
 
- Last Updated on 01/07/2026 20:26:54 UTC
+ Last Updated on 02/07/2026 20:05:01 UTC
 <!--END_SECTION:waka-->
 
 <!--
