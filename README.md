@@ -46,20 +46,17 @@
 🕑︎ 时区: Asia/Shanghai
 
 💬 编程语言: 
-Markdown                 57 mins             ██████████████████░░░░░░░   71.46 % 
-TypeScript               16 mins             █████░░░░░░░░░░░░░░░░░░░░   20.19 % 
-JSON                     6 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.34 % 
+Markdown                 14 mins             █████████████████░░░░░░░░   68.70 % 
+JSON                     6 mins              ████████░░░░░░░░░░░░░░░░░   31.30 % 
 
 🔥 编辑器: 
-VS Code                  1 hr 20 mins        █████████████████████████   100.00 % 
+VS Code                  21 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 项目: 
-软件工程笔记                   1 hr 3 mins         ████████████████████░░░░░   79.81 % 
-recite-word-server       12 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.48 % 
-recite-word              3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.71 % 
+软件工程笔记                   21 mins             █████████████████████████   100.00 % 
 
 💻 操作系统: 
-Windows                  1 hr 20 mins        █████████████████████████   100.00 % 
+Windows                  21 mins             █████████████████████████   100.00 % 
 ```
 
 **我最常使用 TypeScript** 
@@ -78,7 +75,7 @@ Vue                      1 repo              ████░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/little-q-exist/little-q-exist/main/assets/bar_graph.png)
 
 
- Last Updated on 06/07/2026 20:27:50 UTC
+ Last Updated on 07/07/2026 20:27:47 UTC
 <!--END_SECTION:waka-->
 
 <!--
