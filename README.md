@@ -46,18 +46,24 @@
 🕑︎ 时区: Asia/Shanghai
 
 💬 编程语言: 
-Other                    35 mins             █████████████░░░░░░░░░░░░   51.99 % 
-Batchfile                32 mins             ████████████░░░░░░░░░░░░░   48.01 % 
+Other                    2 hrs 19 mins       ██████████████████░░░░░░░   70.73 % 
+Batchfile                32 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.73 % 
+TypeScript               24 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.50 % 
+CSS                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
 
 🔥 编辑器: 
-Claude Code              35 mins             █████████████░░░░░░░░░░░░   51.99 % 
-VS Code                  32 mins             ████████████░░░░░░░░░░░░░   48.01 % 
+Codex CLI                1 hr 48 mins        ██████████████░░░░░░░░░░░   54.86 % 
+VS Code                  53 mins             ███████░░░░░░░░░░░░░░░░░░   27.02 % 
+Claude Code              35 mins             █████░░░░░░░░░░░░░░░░░░░░   18.12 % 
 
 🐱‍💻 项目: 
-Q                        1 hr 8 mins         █████████████████████████   100.00 % 
+ygcg-frontend            2 hrs 1 min         ███████████████░░░░░░░░░░   61.65 % 
+Q                        1 hr 8 mins         █████████░░░░░░░░░░░░░░░░   34.85 % 
+ygcg-wiki                6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.50 % 
 
 💻 操作系统: 
-Windows                  1 hr 8 mins         █████████████████████████   100.00 % 
+Linux                    2 hrs 8 mins        ████████████████░░░░░░░░░   65.15 % 
+Windows                  1 hr 8 mins         █████████░░░░░░░░░░░░░░░░   34.85 % 
 ```
 
 **我最常使用 TypeScript** 
@@ -76,7 +82,7 @@ Vue                      1 repo              ████░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/little-q-exist/little-q-exist/main/assets/bar_graph.png)
 
 
- Last Updated on 13/07/2026 20:00:52 UTC
+ Last Updated on 14/07/2026 19:52:44 UTC
 <!--END_SECTION:waka-->
 
 <!--
