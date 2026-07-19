@@ -46,26 +46,26 @@
 🕑︎ 时区: Asia/Shanghai
 
 💬 编程语言: 
-TypeScript               15 hrs 35 mins      ████████████████░░░░░░░░░   64.68 % 
-Other                    6 hrs 45 mins       ███████░░░░░░░░░░░░░░░░░░   28.04 % 
-Markdown                 1 hr 21 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.62 % 
-Git                      8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.59 % 
-JSON                     8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.58 % 
+TypeScript               15 hrs 35 mins      █████████████████░░░░░░░░   67.67 % 
+Other                    5 hrs 41 mins       ██████░░░░░░░░░░░░░░░░░░░   24.71 % 
+Markdown                 1 hr 21 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.88 % 
+Git                      8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.62 % 
+JSON                     8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.60 % 
 
 🔥 编辑器: 
-VS Code                  13 hrs 42 mins      ██████████████░░░░░░░░░░░   56.90 % 
-Codex CLI                10 hrs 23 mins      ███████████░░░░░░░░░░░░░░   43.10 % 
+VS Code                  13 hrs 41 mins      ███████████████░░░░░░░░░░   59.43 % 
+Codex CLI                9 hrs 20 mins       ██████████░░░░░░░░░░░░░░░   40.57 % 
 
 🐱‍💻 项目: 
-ygcg-frontend            22 hrs 40 mins      ████████████████████████░   94.09 % 
-YGCG                     26 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.82 % 
-echarts                  21 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.50 % 
-qcy                      14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.01 % 
-ygcg-wiki                12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.89 % 
+ygcg-frontend            21 hrs 36 mins      ███████████████████████░░   93.82 % 
+YGCG                     26 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.90 % 
+echarts                  21 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.56 % 
+qcy                      14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.06 % 
+ygcg-wiki                12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.94 % 
 
 💻 操作系统: 
-Linux                    23 hrs 12 mins      ████████████████████████░   96.30 % 
-Windows                  53 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.70 % 
+Linux                    22 hrs 8 mins       ████████████████████████░   96.13 % 
+Windows                  53 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.87 % 
 ```
 
 **我最常使用 TypeScript** 
@@ -84,7 +84,7 @@ Vue                      1 repo              ████░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/little-q-exist/little-q-exist/main/assets/bar_graph.png)
 
 
- Last Updated on 18/07/2026 19:44:31 UTC
+ Last Updated on 19/07/2026 19:43:53 UTC
 <!--END_SECTION:waka-->
 
 <!--
