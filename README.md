@@ -3,6 +3,8 @@
 这里小Q！大学生。目前正在学习 TS 全栈开发。
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-68%20hrs%2044%20mins-blue?style=flat)
+
 ![Profile Views](http://img.shields.io/badge/%E8%B5%84%E6%96%99%E9%A1%B5%E6%B5%8F%E8%A7%88%E6%AC%A1%E6%95%B0-2-blue?style=flat)
 
 **🐱 我的 GitHub 数据** 
@@ -17,6 +19,55 @@
  > 
 > 🔑 0 个私人仓库 
  > 
+**我是早鸟 🐤** 
+
+```text
+🌞 早晨                     465 commits         ███████░░░░░░░░░░░░░░░░░░   27.19 % 
+🌆 白天                     761 commits         ███████████░░░░░░░░░░░░░░   44.50 % 
+🌃 傍晚                     484 commits         ███████░░░░░░░░░░░░░░░░░░   28.30 % 
+🌙 晚上                     0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+```
+📅 **星期一 时的我最有干劲** 
+
+```text
+星期一                      327 commits         █████░░░░░░░░░░░░░░░░░░░░   19.12 % 
+星期二                      326 commits         █████░░░░░░░░░░░░░░░░░░░░   19.06 % 
+星期三                      260 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.20 % 
+星期四                      207 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.11 % 
+星期五                      160 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.36 % 
+星期六                      223 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.04 % 
+星期日                      207 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.11 % 
+```
+
+
+📊 **本周消耗时间** 
+
+```text
+🕑︎ 时区: Asia/Shanghai
+
+💬 编程语言: 
+TypeScript               20 hrs 58 mins      █████████████████████░░░░   84.40 % 
+Markdown                 2 hrs 21 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.46 % 
+Other                    1 hr 17 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.19 % 
+JSON                     5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.38 % 
+JavaScript               3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 % 
+
+🔥 编辑器: 
+VS Code                  18 hrs 4 mins       ██████████████████░░░░░░░   72.71 % 
+Codex CLI                6 hrs 47 mins       ███████░░░░░░░░░░░░░░░░░░   27.29 % 
+
+🐱‍💻 项目: 
+ygcg-frontend            21 hrs 40 mins      ██████████████████████░░░   87.20 % 
+ygcg-wiki                1 hr 12 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.87 % 
+YGCG                     1 hr 10 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.73 % 
+qcy                      45 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.05 % 
+ygcg-backend             2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 % 
+
+💻 操作系统: 
+Linux                    23 hrs 44 mins      ████████████████████████░   95.50 % 
+Windows                  1 hr 7 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.50 % 
+```
+
 **我最常使用 TypeScript** 
 
 ```text
@@ -33,7 +84,7 @@ Vue                      1 repo              ████░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/little-q-exist/little-q-exist/main/assets/bar_graph.png)
 
 
- Last Updated on 24/07/2026 19:57:35 UTC
+ Last Updated on 25/07/2026 19:46:14 UTC
 <!--END_SECTION:waka-->
 
 <!--
