@@ -3,17 +3,17 @@
 这里小Q！大学生。目前正在学习 TS 全栈开发。
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-69%20hrs%2050%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-73%20hrs%2027%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-61%20hrs%2038%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-64%20hrs%2055%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/%E8%B5%84%E6%96%99%E9%A1%B5%E6%B5%8F%E8%A7%88%E6%AC%A1%E6%95%B0-1-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/%E8%B5%84%E6%96%99%E9%A1%B5%E6%B5%8F%E8%A7%88%E6%AC%A1%E6%95%B0-0-blue?style=flat)
 
 **🐱 我的 GitHub 数据** 
 
 > 📦  使用了 ? GitHub 存储空间 
  > 
-> 🏆 583 个贡献，在 2026 年
+> 🏆 595 个贡献，在 2026 年
  > 
 > 💼 开放招聘
  > 
@@ -24,21 +24,21 @@
 **我是早鸟 🐤** 
 
 ```text
-🌞 早晨                     465 commits         ███████░░░░░░░░░░░░░░░░░░   27.19 % 
-🌆 白天                     761 commits         ███████████░░░░░░░░░░░░░░   44.50 % 
-🌃 傍晚                     484 commits         ███████░░░░░░░░░░░░░░░░░░   28.30 % 
+🌞 早晨                     466 commits         ███████░░░░░░░░░░░░░░░░░░   27.12 % 
+🌆 白天                     768 commits         ███████████░░░░░░░░░░░░░░   44.70 % 
+🌃 傍晚                     484 commits         ███████░░░░░░░░░░░░░░░░░░   28.17 % 
 🌙 晚上                     0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 ```
 📅 **星期一 时的我最有干劲** 
 
 ```text
-星期一                      327 commits         █████░░░░░░░░░░░░░░░░░░░░   19.12 % 
-星期二                      326 commits         █████░░░░░░░░░░░░░░░░░░░░   19.06 % 
-星期三                      260 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.20 % 
-星期四                      207 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.11 % 
-星期五                      160 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.36 % 
-星期六                      223 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.04 % 
-星期日                      207 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.11 % 
+星期一                      327 commits         █████░░░░░░░░░░░░░░░░░░░░   19.03 % 
+星期二                      326 commits         █████░░░░░░░░░░░░░░░░░░░░   18.98 % 
+星期三                      260 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.13 % 
+星期四                      207 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.05 % 
+星期五                      168 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.78 % 
+星期六                      223 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.98 % 
+星期日                      207 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.05 % 
 ```
 
 
@@ -48,40 +48,40 @@
 🕑︎ 时区: Asia/Shanghai
 
 💬 编程语言: 
-TypeScript               14 hrs 45 mins      ████████████████░░░░░░░░░   62.65 % 
-Markdown                 4 hrs 46 mins       █████░░░░░░░░░░░░░░░░░░░░   20.29 % 
-Other                    1 hr 56 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.24 % 
-SQL                      37 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.69 % 
-Bash                     34 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.45 % 
+TypeScript               12 hrs 48 mins      ███████████████░░░░░░░░░░   59.80 % 
+Markdown                 4 hrs 20 mins       █████░░░░░░░░░░░░░░░░░░░░   20.25 % 
+Other                    1 hr 37 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.59 % 
+SQL                      45 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.51 % 
+Bash                     43 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.42 % 
 
 🔥 编辑器: 
-VS Code                  12 hrs 58 mins      ██████████████░░░░░░░░░░░   55.12 % 
-Codex CLI                10 hrs 34 mins      ███████████░░░░░░░░░░░░░░   44.88 % 
+VS Code                  11 hrs 56 mins      ██████████████░░░░░░░░░░░   55.69 % 
+Codex CLI                9 hrs 29 mins       ███████████░░░░░░░░░░░░░░   44.31 % 
 
 🐱‍💻 项目: 
-ygcg-frontend            16 hrs 8 mins       █████████████████░░░░░░░░   68.54 % 
-ygcg-backend             4 hrs 2 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.13 % 
-PRviewer                 1 hr 10 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.97 % 
-YGCG                     55 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.95 % 
-qcy                      45 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.21 % 
+ygcg-frontend            10 hrs 37 mins      ████████████░░░░░░░░░░░░░   49.58 % 
+PRviewer                 5 hrs 21 mins       ██████░░░░░░░░░░░░░░░░░░░   25.00 % 
+ygcg-backend             4 hrs 17 mins       █████░░░░░░░░░░░░░░░░░░░░   20.02 % 
+YGCG                     40 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.17 % 
+qcy                      15 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.17 % 
 
 💻 操作系统: 
-Linux                    21 hrs 24 mins      ███████████████████████░░   90.87 % 
-Windows                  2 hrs 9 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.13 % 
+Linux                    15 hrs 17 mins      ██████████████████░░░░░░░   71.33 % 
+Windows                  6 hrs 8 mins        ███████░░░░░░░░░░░░░░░░░░   28.67 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 17 hrs 48 mins (75.63%)
+⏱ AI Coding Time: 15 hrs 11 mins (70.9%)
 
-✍️ 0 lines written by AI, 2,135 lines written by hand (0.0% AI-written)
+✍️ 0 lines written by AI, 1,986 lines written by hand (0.0% AI-written)
 
-🔤 78,214,872 Input Tokens, 1,080,770 Output Tokens
+🔤 61,424,278 Input Tokens, 687,810 Output Tokens
 
-💵 $398.47 Estimated AI Cost This Week
+💵 $325.47 Estimated AI Cost This Week
 
-🧠 57 AI Sessions, 179 AI Prompts
+🧠 52 AI Sessions, 176 AI Prompts
 
 GPT                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Opus                     0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
@@ -89,7 +89,7 @@ Deepseek                 0 lines             ░░░░░░░░░░░�
 
 🔎 AI Coding Insights:
 🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
-📝 Concise Prompter — average 334 characters per prompt
+📄 Detailed Prompter — average 1,082 characters per prompt
 🔁 Iterative Prompter — average 3 prompts per session
 🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
 ```
@@ -110,7 +110,7 @@ Vue                      1 repo              ████░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/little-q-exist/little-q-exist/main/assets/bar_graph.png)
 
 
- Last Updated on 30/07/2026 20:04:24 UTC
+ Last Updated on 31/07/2026 20:05:06 UTC
 <!--END_SECTION:waka-->
 
 <!--
