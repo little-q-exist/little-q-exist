@@ -48,48 +48,47 @@
 🕑︎ 时区: Asia/Shanghai
 
 💬 编程语言: 
-TypeScript               12 hrs 48 mins      ███████████████░░░░░░░░░░   59.80 % 
-Markdown                 4 hrs 20 mins       █████░░░░░░░░░░░░░░░░░░░░   20.25 % 
-Other                    1 hr 37 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.59 % 
-SQL                      45 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.51 % 
-Bash                     43 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.42 % 
+TypeScript               11 hrs 38 mins      ██████████████░░░░░░░░░░░   54.78 % 
+Markdown                 6 hrs 44 mins       ████████░░░░░░░░░░░░░░░░░   31.67 % 
+Other                    1 hr 6 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   05.25 % 
+Bash                     43 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.45 % 
+YAML                     24 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.92 % 
 
 🔥 编辑器: 
-VS Code                  11 hrs 56 mins      ██████████████░░░░░░░░░░░   55.69 % 
-Codex CLI                9 hrs 29 mins       ███████████░░░░░░░░░░░░░░   44.31 % 
+VS Code                  14 hrs 3 mins       █████████████████░░░░░░░░   66.13 % 
+Codex CLI                7 hrs 12 mins       ████████░░░░░░░░░░░░░░░░░   33.87 % 
 
 🐱‍💻 项目: 
-ygcg-frontend            10 hrs 37 mins      ████████████░░░░░░░░░░░░░   49.58 % 
-PRviewer                 5 hrs 21 mins       ██████░░░░░░░░░░░░░░░░░░░   25.00 % 
-ygcg-backend             4 hrs 17 mins       █████░░░░░░░░░░░░░░░░░░░░   20.02 % 
-YGCG                     40 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.17 % 
-qcy                      15 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.17 % 
+ygcg-frontend            7 hrs 54 mins       █████████░░░░░░░░░░░░░░░░   37.23 % 
+PRviewer                 5 hrs 21 mins       ██████░░░░░░░░░░░░░░░░░░░   25.20 % 
+YGCG                     3 hrs 8 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.80 % 
+ygcg-backend             3 hrs 3 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.39 % 
+Unknown Project          1 hr 34 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.42 % 
 
 💻 操作系统: 
-Linux                    15 hrs 17 mins      ██████████████████░░░░░░░   71.33 % 
-Windows                  6 hrs 8 mins        ███████░░░░░░░░░░░░░░░░░░   28.67 % 
+Linux                    10 hrs 58 mins      █████████████░░░░░░░░░░░░   51.62 % 
+Windows                  10 hrs 17 mins      ████████████░░░░░░░░░░░░░   48.38 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 15 hrs 11 mins (70.9%)
+⏱ AI Coding Time: 12 hrs (56.48%)
 
-✍️ 0 lines written by AI, 1,986 lines written by hand (0.0% AI-written)
+✍️ 0 lines written by AI, 660 lines written by hand (0.0% AI-written)
 
-🔤 61,424,278 Input Tokens, 687,810 Output Tokens
+🔤 45,721,177 Input Tokens, 562,285 Output Tokens
 
-💵 $325.47 Estimated AI Cost This Week
+💵 $245.13 Estimated AI Cost This Week
 
-🧠 52 AI Sessions, 176 AI Prompts
+🧠 48 AI Sessions, 155 AI Prompts
 
 GPT                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Opus                     0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-Deepseek                 0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
-📄 Detailed Prompter — average 1,082 characters per prompt
+📚 Verbose Prompter — average 1,533 characters per prompt
 🔁 Iterative Prompter — average 3 prompts per session
 🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
 ```
@@ -110,7 +109,7 @@ Vue                      1 repo              ████░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/little-q-exist/little-q-exist/main/assets/bar_graph.png)
 
 
- Last Updated on 02/08/2026 19:45:09 UTC
+ Last Updated on 04/08/2026 20:10:37 UTC
 <!--END_SECTION:waka-->
 
 <!--
