@@ -3,9 +3,9 @@
 这里小Q！大学生。目前正在学习 TS 全栈开发。
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-95%20hrs%2034%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-99%20hrs%2025%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-76%20hrs%203%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-80%20hrs%2016%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/%E8%B5%84%E6%96%99%E9%A1%B5%E6%B5%8F%E8%A7%88%E6%AC%A1%E6%95%B0-0-blue?style=flat)
 
@@ -48,47 +48,48 @@
 🕑︎ 时区: Asia/Shanghai
 
 💬 编程语言: 
-TypeScript               14 hrs 33 mins      ███████████████░░░░░░░░░░   60.52 % 
-Markdown                 6 hrs 16 mins       ███████░░░░░░░░░░░░░░░░░░   26.08 % 
-Other                    2 hrs 34 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.73 % 
-PowerShell               14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.02 % 
-JSON                     12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.84 % 
+TypeScript               16 hrs 10 mins      ███████████████░░░░░░░░░░   58.73 % 
+Markdown                 5 hrs 57 mins       █████░░░░░░░░░░░░░░░░░░░░   21.63 % 
+Other                    4 hrs 3 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.73 % 
+SQL                      32 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.97 % 
+YAML                     17 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.07 % 
 
 🔥 编辑器: 
-VS Code                  14 hrs 19 mins      ███████████████░░░░░░░░░░   59.58 % 
-Codex CLI                9 hrs 43 mins       ██████████░░░░░░░░░░░░░░░   40.42 % 
+VS Code                  14 hrs 4 mins       █████████████░░░░░░░░░░░░   51.08 % 
+Codex CLI                13 hrs 28 mins      ████████████░░░░░░░░░░░░░   48.92 % 
 
 🐱‍💻 项目: 
-ygcg-frontend            11 hrs 30 mins      ████████████░░░░░░░░░░░░░   47.86 % 
-YGCG                     5 hrs               █████░░░░░░░░░░░░░░░░░░░░   20.80 % 
-ygcg-backend             2 hrs 44 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.42 % 
-Unknown Project          1 hr 34 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.55 % 
-PRviewer                 1 hr 24 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.87 % 
+ygcg-frontend            13 hrs 18 mins      ████████████░░░░░░░░░░░░░   48.29 % 
+ygcg-backend             4 hrs 25 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.06 % 
+YGCG                     3 hrs 49 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.89 % 
+qcy                      2 hrs 32 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.20 % 
+Unknown Project          1 hr 34 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.75 % 
 
 💻 操作系统: 
-Linux                    16 hrs              █████████████████░░░░░░░░   66.53 % 
-Windows                  8 hrs 3 mins        ████████░░░░░░░░░░░░░░░░░   33.47 % 
+Linux                    20 hrs 42 mins      ███████████████████░░░░░░   75.17 % 
+Windows                  6 hrs 50 mins       ██████░░░░░░░░░░░░░░░░░░░   24.83 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 13 hrs 44 mins (57.11%)
+⏱ AI Coding Time: 17 hrs 55 mins (65.05%)
 
-✍️ 0 lines written by AI, 745 lines written by hand (0.0% AI-written)
+✍️ 0 lines written by AI, 492 lines written by hand (0.0% AI-written)
 
-🔤 40,127,225 Input Tokens, 818,406 Output Tokens
+🔤 43,852,183 Input Tokens, 1,074,990 Output Tokens
 
-💵 $226.90 Estimated AI Cost This Week
+💵 $259.09 Estimated AI Cost This Week
 
-🧠 91 AI Sessions, 250 AI Prompts
+🧠 125 AI Sessions, 353 AI Prompts
 
 GPT                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Opus                     0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Gemini                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
-📚 Verbose Prompter — average 4,851 characters per prompt
+📚 Verbose Prompter — average 5,139 characters per prompt
 🔁 Iterative Prompter — average 3 prompts per session
 🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
 ```
@@ -109,7 +110,7 @@ Vue                      1 repo              ████░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/little-q-exist/little-q-exist/main/assets/bar_graph.png)
 
 
- Last Updated on 09/08/2026 19:13:04 UTC
+ Last Updated on 10/08/2026 19:34:10 UTC
 <!--END_SECTION:waka-->
 
 <!--
