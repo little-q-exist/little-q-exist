@@ -3,9 +3,9 @@
 这里小Q！大学生。目前正在学习 TS 全栈开发。
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-105%20hrs%2022%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-107%20hrs%2010%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-97%20hrs%2031%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-106%20hrs%2045%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/%E8%B5%84%E6%96%99%E9%A1%B5%E6%B5%8F%E8%A7%88%E6%AC%A1%E6%95%B0-0-blue?style=flat)
 
@@ -48,41 +48,41 @@
 🕑︎ 时区: Asia/Shanghai
 
 💬 编程语言: 
-Other                    13 hrs 50 mins      ███████████░░░░░░░░░░░░░░   43.62 % 
-TypeScript               13 hrs 33 mins      ███████████░░░░░░░░░░░░░░   42.74 % 
-Markdown                 3 hrs 10 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   10.00 % 
-SQL                      32 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.71 % 
-YAML                     18 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.00 % 
+Other                    23 hrs 34 mins      ████████████████░░░░░░░░░   64.07 % 
+TypeScript               10 hrs 15 mins      ███████░░░░░░░░░░░░░░░░░░   27.88 % 
+Markdown                 1 hr 21 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.67 % 
+SQL                      32 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.47 % 
+PowerShell               20 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.94 % 
 
 🔥 编辑器: 
-Codex CLI                22 hrs 22 mins      ██████████████████░░░░░░░   70.57 % 
-VS Code                  9 hrs 9 mins        ███████░░░░░░░░░░░░░░░░░░   28.86 % 
-Codex Vscode             10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.57 % 
+Codex CLI                29 hrs 1 min        ████████████████████░░░░░   78.86 % 
+VS Code                  7 hrs 6 mins        █████░░░░░░░░░░░░░░░░░░░░   19.32 % 
+Codex Vscode             40 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.82 % 
 
 🐱‍💻 项目: 
-ygcg-frontend            12 hrs 36 mins      ██████████░░░░░░░░░░░░░░░   39.73 % 
-qcy                      12 hrs 12 mins      ██████████░░░░░░░░░░░░░░░   38.50 % 
-ygcg-backend             4 hrs 32 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.33 % 
-YGCG                     1 hr 15 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.99 % 
-PRviewer                 33 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.75 % 
+qcy                      22 hrs 17 mins      ███████████████░░░░░░░░░░   60.59 % 
+ygcg-frontend            11 hrs 3 mins       ████████░░░░░░░░░░░░░░░░░   30.07 % 
+ygcg-backend             2 hrs 3 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.60 % 
+YGCG                     29 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.35 % 
+gitlab-clone-windows     15 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.72 % 
 
 💻 操作系统: 
-Linux                    29 hrs 45 mins      ███████████████████████░░   93.84 % 
-Windows                  1 hr 57 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.16 % 
+Linux                    35 hrs 36 mins      ████████████████████████░   96.79 % 
+Windows                  1 hr 10 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.21 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 27 hrs 53 mins (87.91%)
+⏱ AI Coding Time: 34 hrs 40 mins (94.22%)
 
-✍️ 0 lines written by AI, 227 lines written by hand (0.0% AI-written)
+✍️ 0 lines written by AI, 179 lines written by hand (0.0% AI-written)
 
-🔤 53,638,573 Input Tokens, 1,916,049 Output Tokens
+🔤 38,931,074 Input Tokens, 2,353,809 Output Tokens
 
-💵 $283.17 Estimated AI Cost This Week
+💵 $219.57 Estimated AI Cost This Week
 
-🧠 214 AI Sessions, 603 AI Prompts
+🧠 291 AI Sessions, 773 AI Prompts
 
 GPT                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Opus                     0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
@@ -90,7 +90,7 @@ Gemini                   0 lines             ░░░░░░░░░░░�
 
 🔎 AI Coding Insights:
 🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
-📚 Verbose Prompter — average 5,359 characters per prompt
+📚 Verbose Prompter — average 4,522 characters per prompt
 🔁 Iterative Prompter — average 3 prompts per session
 🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
 ```
@@ -111,7 +111,7 @@ Vue                      1 repo              ████░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/little-q-exist/little-q-exist/main/assets/bar_graph.png)
 
 
- Last Updated on 13/08/2026 19:36:32 UTC
+ Last Updated on 14/08/2026 19:30:34 UTC
 <!--END_SECTION:waka-->
 
 <!--
