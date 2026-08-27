@@ -3,10 +3,6 @@
 这里小Q！大学生。目前正在学习 TS 全栈开发。
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-121%20hrs%2010%20mins-blue?style=flat)
-
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-134%20hrs%2044%20mins-blue?style=flat)
-
 ![Profile Views](http://img.shields.io/badge/%E8%B5%84%E6%96%99%E9%A1%B5%E6%B5%8F%E8%A7%88%E6%AC%A1%E6%95%B0-0-blue?style=flat)
 
 **🐱 我的 GitHub 数据** 
@@ -48,48 +44,46 @@
 🕑︎ 时区: Asia/Shanghai
 
 💬 编程语言: 
-Other                    18 hrs              ███████████████░░░░░░░░░░   58.59 % 
-TypeScript               6 hrs 11 mins       █████░░░░░░░░░░░░░░░░░░░░   20.15 % 
-Markdown                 4 hrs 29 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.61 % 
-TOML                     1 hr 41 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.51 % 
-JSON                     16 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.92 % 
+TypeScript               6 hrs 47 mins       ███████████░░░░░░░░░░░░░░   45.53 % 
+Other                    6 hrs 8 mins        ██████████░░░░░░░░░░░░░░░   41.19 % 
+Markdown                 1 hr 35 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.68 % 
+JSON                     10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.19 % 
+PowerShell               7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.82 % 
 
 🔥 编辑器: 
-Codex CLI                18 hrs 26 mins      ███████████████░░░░░░░░░░   59.98 % 
-VS Code                  12 hrs 18 mins      ██████████░░░░░░░░░░░░░░░   40.02 % 
+Codex CLI                9 hrs 11 mins       ███████████████░░░░░░░░░░   61.66 % 
+VS Code                  5 hrs 42 mins       ██████████░░░░░░░░░░░░░░░   38.34 % 
 
 🐱‍💻 项目: 
-qcy                      18 hrs 31 mins      ███████████████░░░░░░░░░░   60.28 % 
-ygcg-frontend            5 hrs 18 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.29 % 
-Notes                    3 hrs 35 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.69 % 
-ygcg0-frontend           1 hr 33 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.10 % 
-Unknown Project          49 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.69 % 
+ygcg-frontend            7 hrs 24 mins       ████████████░░░░░░░░░░░░░   49.72 % 
+qcy                      5 hrs 32 mins       █████████░░░░░░░░░░░░░░░░   37.18 % 
+ygcg0-frontend           1 hr 4 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.18 % 
+Unknown Project          18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.05 % 
+ygcg-backend             11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.33 % 
 
 💻 操作系统: 
-Linux                    26 hrs 35 mins      ██████████████████████░░░   86.53 % 
-Windows                  4 hrs 8 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.47 % 
+Linux                    14 hrs 42 mins      █████████████████████████   98.64 % 
+Windows                  12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.36 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 24 hrs 9 mins (78.61%)
+⏱ AI Coding Time: 13 hrs 13 mins (88.75%)
 
-✍️ 0 lines written by AI, 496 lines written by hand (0.0% AI-written)
+✍️ 0 lines written by AI, 2,648 lines written by hand (0.0% AI-written)
 
-🔤 50,776,463 Input Tokens, 1,937,456 Output Tokens
+🔤 17,931,311 Input Tokens, 1,180,405 Output Tokens
 
-💵 $312.46 Estimated AI Cost This Week
+💵 $96.85 Estimated AI Cost This Week
 
-🧠 169 AI Sessions, 553 AI Prompts
+🧠 111 AI Sessions, 321 AI Prompts
 
 GPT                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-Codex-Cli                0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-Opus                     0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
-📚 Verbose Prompter — average 3,765 characters per prompt
+📚 Verbose Prompter — average 5,663 characters per prompt
 🔁 Iterative Prompter — average 3 prompts per session
 🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
 ```
@@ -110,7 +104,7 @@ Vue                      1 repo              ████░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/little-q-exist/little-q-exist/main/assets/bar_graph.png)
 
 
- Last Updated on 23/08/2026 18:58:47 UTC
+ Last Updated on 27/08/2026 06:44:59 UTC
 <!--END_SECTION:waka-->
 
 <!--
