@@ -3,9 +3,9 @@
 这里小Q！大学生。目前正在学习 TS 全栈开发。
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-126%20hrs%2038%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-130%20hrs%2029%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-139%20hrs%203%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-139%20hrs%2040%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/%E8%B5%84%E6%96%99%E9%A1%B5%E6%B5%8F%E8%A7%88%E6%AC%A1%E6%95%B0-10-blue?style=flat)
 
@@ -13,7 +13,7 @@
 
 > 📦  使用了 ? GitHub 存储空间 
  > 
-> 🏆 603 个贡献，在 2026 年
+> 🏆 604 个贡献，在 2026 年
  > 
 > 💼 开放招聘
  > 
@@ -48,46 +48,46 @@
 🕑︎ 时区: Asia/Shanghai
 
 💬 编程语言: 
-Markdown                 3 hrs 59 mins       ████████████████████░░░░░   80.41 % 
-PowerShell               28 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.52 % 
-JSON                     17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.92 % 
-JavaScript               7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.50 % 
-TypeScript               1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.51 % 
+Markdown                 5 hrs 43 mins       ██████████████████░░░░░░░   70.13 % 
+Other                    1 hr 28 mins        █████░░░░░░░░░░░░░░░░░░░░   18.14 % 
+PowerShell               28 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.78 % 
+JSON                     17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.60 % 
+JavaScript               7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.52 % 
 
 🔥 编辑器: 
-VS Code                  4 hrs 50 mins       ████████████████████████░   97.37 % 
-Codex CLI                7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.63 % 
+VS Code                  8 hrs 2 mins        █████████████████████████   98.40 % 
+Codex CLI                7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.60 % 
 
 🐱‍💻 项目: 
-YGCG                     2 hrs 51 mins       ██████████████░░░░░░░░░░░   57.46 % 
-Notes                    1 hr 49 mins        █████████░░░░░░░░░░░░░░░░   36.93 % 
-lapis-cv-vscode-v2.0.1   12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.27 % 
-ygcg-backend             2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.84 % 
-ygcg-wiki                0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.30 % 
+Notes                    3 hrs 36 mins       ███████████░░░░░░░░░░░░░░   44.21 % 
+YGCG                     2 hrs 54 mins       █████████░░░░░░░░░░░░░░░░   35.58 % 
+https-github-com-mizoreww1 hr 19 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.31 % 
+lapis-cv-vscode-v2.0.1   12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.59 % 
+ygcg-backend             2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.51 % 
 
 💻 操作系统: 
-Windows                  4 hrs 57 mins       █████████████████████████   100.00 % 
+Windows                  8 hrs 10 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 57 mins (19.44%)
+⏱ AI Coding Time: 2 hrs 32 mins (31.04%)
 
-✍️ 0 lines written by AI, 239 lines written by hand (0.0% AI-written)
+✍️ 0 lines written by AI, 266 lines written by hand (0.0% AI-written)
 
-🔤 216,296 Input Tokens, 28,336 Output Tokens
+🔤 712,623 Input Tokens, 244,903 Output Tokens
 
-💵 $2.77 Estimated AI Cost This Week
+💵 $42.65 Estimated AI Cost This Week
 
-🧠 12 AI Sessions, 32 AI Prompts
+🧠 21 AI Sessions, 56 AI Prompts
 
 Deepseek                 0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 GPT                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
-📚 Verbose Prompter — average 3,457 characters per prompt
+📚 Verbose Prompter — average 5,463 characters per prompt
 🔁 Iterative Prompter — average 3 prompts per session
 🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
 ```
@@ -95,10 +95,11 @@ GPT                      0 lines             ░░░░░░░░░░░�
 **我最常使用 TypeScript** 
 
 ```text
-TypeScript               3 repos             ███████████░░░░░░░░░░░░░░   42.86 % 
-JavaScript               2 repos             ███████░░░░░░░░░░░░░░░░░░   28.57 % 
-Java                     1 repo              ████░░░░░░░░░░░░░░░░░░░░░   14.29 % 
-Vue                      1 repo              ████░░░░░░░░░░░░░░░░░░░░░   14.29 % 
+TypeScript               3 repos             █████████░░░░░░░░░░░░░░░░   37.50 % 
+JavaScript               2 repos             ██████░░░░░░░░░░░░░░░░░░░   25.00 % 
+Java                     1 repo              ███░░░░░░░░░░░░░░░░░░░░░░   12.50 % 
+Vue                      1 repo              ███░░░░░░░░░░░░░░░░░░░░░░   12.50 % 
+Rust                     1 repo              ███░░░░░░░░░░░░░░░░░░░░░░   12.50 % 
 ```
 
 
@@ -108,7 +109,7 @@ Vue                      1 repo              ████░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/little-q-exist/little-q-exist/main/assets/bar_graph.png)
 
 
- Last Updated on 31/08/2026 23:00:22 UTC
+ Last Updated on 01/09/2026 21:15:49 UTC
 <!--END_SECTION:waka-->
 
 <!--
