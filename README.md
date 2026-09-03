@@ -3,9 +3,9 @@
 这里小Q！大学生。目前正在学习 TS 全栈开发。
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-132%20hrs%2013%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-133%20hrs%2012%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-141%20hrs%2014%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-142%20hrs%2045%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/%E8%B5%84%E6%96%99%E9%A1%B5%E6%B5%8F%E8%A7%88%E6%AC%A1%E6%95%B0-10-blue?style=flat)
 
@@ -48,46 +48,44 @@
 🕑︎ 时区: Asia/Shanghai
 
 💬 编程语言: 
-Markdown                 6 hrs 25 mins       ████████████████░░░░░░░░░   63.32 % 
-Other                    2 hrs 28 mins       ██████░░░░░░░░░░░░░░░░░░░   24.33 % 
-PowerShell               28 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.66 % 
-JSON                     17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.90 % 
-TOML                     13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.19 % 
+Markdown                 7 hrs 43 mins       ███████████████░░░░░░░░░░   60.65 % 
+Other                    4 hrs 12 mins       ████████░░░░░░░░░░░░░░░░░   33.05 % 
+TOML                     19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.56 % 
+PowerShell               15 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   02.00 % 
+Git Config               4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.56 % 
 
 🔥 编辑器: 
-VS Code                  10 hrs 1 min        █████████████████████████   98.71 % 
-Codex CLI                7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.29 % 
+VS Code                  12 hrs 43 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 项目: 
-Notes                    4 hrs 15 mins       ██████████░░░░░░░░░░░░░░░   41.96 % 
-YGCG                     3 hrs 21 mins       ████████░░░░░░░░░░░░░░░░░   33.01 % 
-https-github-com-mizoreww1 hr 49 mins        █████░░░░░░░░░░░░░░░░░░░░   18.01 % 
-lapis-cv-vscode-v2.0.1   12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.09 % 
-https-github-com-mizoreww7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.27 % 
+Notes                    5 hrs 16 mins       ██████████░░░░░░░░░░░░░░░   41.40 % 
+YGCG                     3 hrs 55 mins       ████████░░░░░░░░░░░░░░░░░   30.78 % 
+https-github-com-mizoreww1 hr 49 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.36 % 
+ygcg-backend             56 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.40 % 
+lapis-cv-vscode-v2.0.1   12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.66 % 
 
 💻 操作系统: 
-Windows                  10 hrs 8 mins       █████████████████████████   100.00 % 
+Windows                  12 hrs 43 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 4 hrs 3 mins (39.96%)
+⏱ AI Coding Time: 5 hrs 31 mins (43.39%)
 
-✍️ 0 lines written by AI, 268 lines written by hand (0.0% AI-written)
+✍️ 0 lines written by AI, 282 lines written by hand (0.0% AI-written)
 
-🔤 1,206,076 Input Tokens, 346,952 Output Tokens
+🔤 1,989,214 Input Tokens, 713,330 Output Tokens
 
-💵 $76.33 Estimated AI Cost This Week
+💵 $243.02 Estimated AI Cost This Week
 
-🧠 35 AI Sessions, 80 AI Prompts
+🧠 37 AI Sessions, 74 AI Prompts
 
 Deepseek                 0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-GPT                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
-📚 Verbose Prompter — average 5,670 characters per prompt
+📚 Verbose Prompter — average 5,410 characters per prompt
 🔁 Iterative Prompter — average 2 prompts per session
 🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
 ```
@@ -109,7 +107,7 @@ Rust                     1 repo              ███░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/little-q-exist/little-q-exist/main/assets/bar_graph.png)
 
 
- Last Updated on 02/09/2026 21:13:25 UTC
+ Last Updated on 03/09/2026 21:16:16 UTC
 <!--END_SECTION:waka-->
 
 <!--
