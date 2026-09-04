@@ -3,9 +3,9 @@
 这里小Q！大学生。目前正在学习 TS 全栈开发。
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-133%20hrs%2012%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-135%20hrs%2010%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-142%20hrs%2045%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-144%20hrs%2035%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/%E8%B5%84%E6%96%99%E9%A1%B5%E6%B5%8F%E8%A7%88%E6%AC%A1%E6%95%B0-10-blue?style=flat)
 
@@ -48,44 +48,47 @@
 🕑︎ 时区: Asia/Shanghai
 
 💬 编程语言: 
-Markdown                 7 hrs 43 mins       ███████████████░░░░░░░░░░   60.65 % 
-Other                    4 hrs 12 mins       ████████░░░░░░░░░░░░░░░░░   33.05 % 
-TOML                     19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.56 % 
-PowerShell               15 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   02.00 % 
-Git Config               4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.56 % 
+Markdown                 10 hrs 53 mins      █████████████████░░░░░░░░   66.89 % 
+Other                    4 hrs 29 mins       ███████░░░░░░░░░░░░░░░░░░   27.60 % 
+TOML                     19 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   02.00 % 
+PowerShell               15 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.56 % 
+Bash                     5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.52 % 
 
 🔥 编辑器: 
-VS Code                  12 hrs 43 mins      █████████████████████████   100.00 % 
+VS Code                  16 hrs 13 mins      █████████████████████████   99.61 % 
+Codex Vscode             3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.39 % 
 
 🐱‍💻 项目: 
-Notes                    5 hrs 16 mins       ██████████░░░░░░░░░░░░░░░   41.40 % 
-YGCG                     3 hrs 55 mins       ████████░░░░░░░░░░░░░░░░░   30.78 % 
-https-github-com-mizoreww1 hr 49 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.36 % 
-ygcg-backend             56 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.40 % 
-lapis-cv-vscode-v2.0.1   12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.66 % 
+Notes                    8 hrs 22 mins       █████████████░░░░░░░░░░░░   51.44 % 
+YGCG                     3 hrs 59 mins       ██████░░░░░░░░░░░░░░░░░░░   24.55 % 
+https-github-com-mizoreww1 hr 49 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.22 % 
+ygcg-backend             1 hr 1 min          ██░░░░░░░░░░░░░░░░░░░░░░░   06.30 % 
+lapis-cv-vscode-v2.0.1   12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.30 % 
 
 💻 操作系统: 
-Windows                  12 hrs 43 mins      █████████████████████████   100.00 % 
+Windows                  16 hrs 17 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 5 hrs 31 mins (43.39%)
+⏱ AI Coding Time: 6 hrs 25 mins (39.46%)
 
-✍️ 0 lines written by AI, 282 lines written by hand (0.0% AI-written)
+✍️ 0 lines written by AI, 352 lines written by hand (0.0% AI-written)
 
-🔤 1,989,214 Input Tokens, 713,330 Output Tokens
+🔤 2,580,037 Input Tokens, 741,091 Output Tokens
 
-💵 $243.02 Estimated AI Cost This Week
+💵 $246.27 Estimated AI Cost This Week
 
-🧠 37 AI Sessions, 74 AI Prompts
+🧠 47 AI Sessions, 85 AI Prompts
 
 Deepseek                 0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Glm                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Qwen                     0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
-📚 Verbose Prompter — average 5,410 characters per prompt
+📚 Verbose Prompter — average 5,633 characters per prompt
 🔁 Iterative Prompter — average 2 prompts per session
 🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
 ```
@@ -107,7 +110,7 @@ Rust                     1 repo              ███░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/little-q-exist/little-q-exist/main/assets/bar_graph.png)
 
 
- Last Updated on 03/09/2026 21:16:16 UTC
+ Last Updated on 04/09/2026 20:58:18 UTC
 <!--END_SECTION:waka-->
 
 <!--
