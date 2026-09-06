@@ -3,9 +3,9 @@
 这里小Q！大学生。目前正在学习 TS 全栈开发。
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-138%20hrs%2026%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-140%20hrs%2037%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-145%20hrs%2029%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-147%20hrs%2025%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/%E8%B5%84%E6%96%99%E9%A1%B5%E6%B5%8F%E8%A7%88%E6%AC%A1%E6%95%B0-10-blue?style=flat)
 
@@ -48,49 +48,49 @@
 🕑︎ 时区: Asia/Shanghai
 
 💬 编程语言: 
-Markdown                 13 hrs 3 mins       ████████████████░░░░░░░░░   66.00 % 
-Other                    5 hrs 48 mins       ███████░░░░░░░░░░░░░░░░░░   29.39 % 
-TOML                     19 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.65 % 
-PowerShell               15 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.28 % 
-Bash                     5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.43 % 
+Markdown                 15 hrs 19 mins      ████████████████░░░░░░░░░   65.63 % 
+Other                    6 hrs 28 mins       ███████░░░░░░░░░░░░░░░░░░   27.70 % 
+TOML                     21 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.50 % 
+TypeScript               18 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.33 % 
+PowerShell               15 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.09 % 
 
 🔥 编辑器: 
-VS Code                  19 hrs 43 mins      █████████████████████████   99.67 % 
-Codex Vscode             3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.33 % 
+VS Code                  23 hrs 17 mins      █████████████████████████   99.72 % 
+Codex Vscode             3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.28 % 
 
 🐱‍💻 项目: 
-Notes                    9 hrs 54 mins       █████████████░░░░░░░░░░░░   50.09 % 
-YGCG                     5 hrs 55 mins       ███████░░░░░░░░░░░░░░░░░░   29.95 % 
-https-github-com-mizoreww1 hr 49 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.24 % 
-ygcg-backend             1 hr 2 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   05.27 % 
-lapis-cv-vscode-v2.0.1   12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.07 % 
+Notes                    10 hrs 11 mins      ███████████░░░░░░░░░░░░░░   43.64 % 
+YGCG                     8 hrs 45 mins       █████████░░░░░░░░░░░░░░░░   37.53 % 
+https-github-com-mizoreww1 hr 49 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.83 % 
+ygcg-backend             1 hr 2 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.46 % 
+leetcode                 17 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.22 % 
 
 💻 操作系统: 
-Windows                  19 hrs 47 mins      █████████████████████████   100.00 % 
+Windows                  23 hrs 21 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 8 hrs 21 mins (42.23%)
+⏱ AI Coding Time: 10 hrs 40 mins (45.71%)
 
-✍️ 275 lines written by AI, 387 lines written by hand (41.54% AI-written)
+✍️ 275 lines written by AI, 461 lines written by hand (37.36% AI-written)
 
-🔤 3,295,168 Input Tokens, 834,793 Output Tokens
+🔤 3,666,807 Input Tokens, 1,009,604 Output Tokens
 
-💵 $258.07 Estimated AI Cost This Week
+💵 $305.11 Estimated AI Cost This Week
 
-🧠 56 AI Sessions, 115 AI Prompts
+🧠 61 AI Sessions, 133 AI Prompts
 
 Glm                      275 lines           █████████████████████████   100.00 % 
 Deepseek                 0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Qwen                     0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-⚖️ Balanced with AI — 41.54% of written lines came from AI
-📚 Verbose Prompter — average 4,443 characters per prompt
+⚖️ Balanced with AI — 37.36% of written lines came from AI
+📚 Verbose Prompter — average 3,853 characters per prompt
 🔁 Iterative Prompter — average 2 prompts per session
-🔍 Hands-On Reviewer — 69.07% of changed lines were hand-edited
+🔍 Hands-On Reviewer — 71.97% of changed lines were hand-edited
 ```
 
 **我最常使用 TypeScript** 
@@ -110,7 +110,7 @@ Rust                     1 repo              ███░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/little-q-exist/little-q-exist/main/assets/bar_graph.png)
 
 
- Last Updated on 05/09/2026 20:39:14 UTC
+ Last Updated on 06/09/2026 20:43:32 UTC
 <!--END_SECTION:waka-->
 
 <!--
