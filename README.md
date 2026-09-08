@@ -3,9 +3,9 @@
 这里小Q！大学生。目前正在学习 TS 全栈开发。
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-143%20hrs%2031%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-146%20hrs%2034%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-149%20hrs%2044%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-150%20hrs%2051%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/%E8%B5%84%E6%96%99%E9%A1%B5%E6%B5%8F%E8%A7%88%E6%AC%A1%E6%95%B0-10-blue?style=flat)
 
@@ -13,7 +13,7 @@
 
 > 📦  使用了 ? GitHub 存储空间 
  > 
-> 🏆 604 个贡献，在 2026 年
+> 🏆 624 个贡献，在 2026 年
  > 
 > 💼 开放招聘
  > 
@@ -24,21 +24,21 @@
 **我是早鸟 🐤** 
 
 ```text
-🌞 早晨                     472 commits         ███████░░░░░░░░░░░░░░░░░░   26.21 % 
-🌆 白天                     807 commits         ███████████░░░░░░░░░░░░░░   44.81 % 
-🌃 傍晚                     522 commits         ███████░░░░░░░░░░░░░░░░░░   28.98 % 
+🌞 早晨                     466 commits         ███████░░░░░░░░░░░░░░░░░░   26.83 % 
+🌆 白天                     782 commits         ███████████░░░░░░░░░░░░░░   45.02 % 
+🌃 傍晚                     489 commits         ███████░░░░░░░░░░░░░░░░░░   28.15 % 
 🌙 晚上                     0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 ```
-📅 **星期一 时的我最有干劲** 
+📅 **星期二 时的我最有干劲** 
 
 ```text
-星期一                      327 commits         █████░░░░░░░░░░░░░░░░░░░░   18.16 % 
-星期二                      326 commits         █████░░░░░░░░░░░░░░░░░░░░   18.10 % 
-星期三                      268 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.88 % 
-星期四                      208 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.55 % 
-星期五                      177 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.83 % 
-星期六                      249 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.83 % 
-星期日                      246 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.66 % 
+星期一                      327 commits         █████░░░░░░░░░░░░░░░░░░░░   18.83 % 
+星期二                      341 commits         █████░░░░░░░░░░░░░░░░░░░░   19.63 % 
+星期三                      264 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.20 % 
+星期四                      207 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.92 % 
+星期五                      168 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.67 % 
+星期六                      223 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.84 % 
+星期日                      207 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.92 % 
 ```
 
 
@@ -48,49 +48,49 @@
 🕑︎ 时区: Asia/Shanghai
 
 💬 编程语言: 
-Markdown                 13 hrs 17 mins      ███████████████░░░░░░░░░░   58.21 % 
-Other                    6 hrs 44 mins       ███████░░░░░░░░░░░░░░░░░░   29.50 % 
-TypeScript               1 hr 42 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.46 % 
-TOML                     25 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.85 % 
-JavaScript               13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.98 % 
+Markdown                 13 hrs 8 mins       ██████████████░░░░░░░░░░░   55.69 % 
+Other                    5 hrs 45 mins       ██████░░░░░░░░░░░░░░░░░░░   24.43 % 
+TypeScript               2 hrs 23 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.10 % 
+JavaScript               37 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.65 % 
+TOML                     25 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.79 % 
 
 🔥 编辑器: 
-VS Code                  22 hrs 45 mins      █████████████████████████   99.72 % 
-Codex Vscode             3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.28 % 
+VS Code                  23 hrs 31 mins      █████████████████████████   99.73 % 
+Codex Vscode             3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.27 % 
 
 🐱‍💻 项目: 
-Notes                    8 hrs 40 mins       █████████░░░░░░░░░░░░░░░░   37.99 % 
-YGCG                     8 hrs 15 mins       █████████░░░░░░░░░░░░░░░░   36.16 % 
-https-github-com-mizoreww1 hr 49 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.01 % 
-leetcode                 1 hr 47 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.83 % 
-ygcg-backend             1 hr                █░░░░░░░░░░░░░░░░░░░░░░░░   04.38 % 
+YGCG                     8 hrs 20 mins       █████████░░░░░░░░░░░░░░░░   35.33 % 
+Notes                    6 hrs 53 mins       ███████░░░░░░░░░░░░░░░░░░   29.22 % 
+PRviewer                 3 hrs 41 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.62 % 
+leetcode                 1 hr 47 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.58 % 
+ygcg-backend             1 hr                █░░░░░░░░░░░░░░░░░░░░░░░░   04.24 % 
 
 💻 操作系统: 
-Windows                  22 hrs 49 mins      █████████████████████████   100.00 % 
+Windows                  23 hrs 35 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 11 hrs 11 mins (48.99%)
+⏱ AI Coding Time: 12 hrs 32 mins (53.15%)
 
-✍️ 275 lines written by AI, 555 lines written by hand (33.13% AI-written)
+✍️ 275 lines written by AI, 633 lines written by hand (30.29% AI-written)
 
-🔤 4,067,014 Input Tokens, 1,165,429 Output Tokens
+🔤 4,291,808 Input Tokens, 1,136,114 Output Tokens
 
-💵 $370.32 Estimated AI Cost This Week
+💵 $369.18 Estimated AI Cost This Week
 
-🧠 60 AI Sessions, 137 AI Prompts
+🧠 79 AI Sessions, 173 AI Prompts
 
 Glm                      275 lines           █████████████████████████   100.00 % 
 Deepseek                 0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Qwen                     0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-⚖️ Balanced with AI — 33.13% of written lines came from AI
-📚 Verbose Prompter — average 4,140 characters per prompt
+🧑‍💻 Mostly Hands-On — 30.29% of written lines came from AI
+📚 Verbose Prompter — average 2,688 characters per prompt
 🔁 Iterative Prompter — average 2 prompts per session
-🔍 Hands-On Reviewer — 72.61% of changed lines were hand-edited
+🔍 Hands-On Reviewer — 75.0% of changed lines were hand-edited
 ```
 
 **我最常使用 TypeScript** 
@@ -110,7 +110,7 @@ Rust                     1 repo              ███░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/little-q-exist/little-q-exist/main/assets/bar_graph.png)
 
 
- Last Updated on 07/09/2026 21:44:32 UTC
+ Last Updated on 08/09/2026 21:21:22 UTC
 <!--END_SECTION:waka-->
 
 <!--
