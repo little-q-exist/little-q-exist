@@ -3,9 +3,9 @@
 这里小Q！大学生。目前正在学习 TS 全栈开发。
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-152%20hrs%2049%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-154%20hrs%2012%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-156%20hrs%2049%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-159%20hrs%2044%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/%E8%B5%84%E6%96%99%E9%A1%B5%E6%B5%8F%E8%A7%88%E6%AC%A1%E6%95%B0-0-blue?style=flat)
 
@@ -48,45 +48,45 @@
 🕑︎ 时区: Asia/Shanghai
 
 💬 编程语言: 
-Markdown                 6 hrs 48 mins       ████████░░░░░░░░░░░░░░░░░   33.47 % 
-Other                    6 hrs 31 mins       ████████░░░░░░░░░░░░░░░░░   32.09 % 
-TypeScript               5 hrs 12 mins       ██████░░░░░░░░░░░░░░░░░░░   25.65 % 
-JavaScript               35 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.89 % 
-Git                      20 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.71 % 
+Other                    7 hrs 38 mins       ██████████░░░░░░░░░░░░░░░   41.45 % 
+TypeScript               4 hrs 55 mins       ███████░░░░░░░░░░░░░░░░░░   26.71 % 
+Markdown                 4 hrs 26 mins       ██████░░░░░░░░░░░░░░░░░░░   24.12 % 
+JavaScript               24 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.17 % 
+JSON                     16 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.50 % 
 
 🔥 编辑器: 
-VS Code                  20 hrs 19 mins      █████████████████████████   100.00 % 
+VS Code                  18 hrs 26 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 项目: 
-YGCG                     8 hrs 15 mins       ██████████░░░░░░░░░░░░░░░   40.64 % 
-PRviewer                 4 hrs 53 mins       ██████░░░░░░░░░░░░░░░░░░░   24.08 % 
-leetcode                 2 hrs 37 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.91 % 
-interview                1 hr 41 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.32 % 
-Notes                    37 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.10 % 
+YGCG                     6 hrs 9 mins        ████████░░░░░░░░░░░░░░░░░   33.42 % 
+PRviewer                 4 hrs 53 mins       ███████░░░░░░░░░░░░░░░░░░   26.53 % 
+leetcode                 2 hrs 20 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.68 % 
+interview                1 hr 41 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.16 % 
+Notes                    1 hr 16 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.92 % 
 
 💻 操作系统: 
-Windows                  20 hrs 19 mins      █████████████████████████   100.00 % 
+Windows                  18 hrs 26 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 12 hrs 20 mins (60.71%)
+⏱ AI Coding Time: 11 hrs 46 mins (63.87%)
 
-✍️ 0 lines written by AI, 652 lines written by hand (0.0% AI-written)
+✍️ 0 lines written by AI, 578 lines written by hand (0.0% AI-written)
 
-🔤 2,908,641 Input Tokens, 934,350 Output Tokens
+🔤 2,863,517 Input Tokens, 852,040 Output Tokens
 
-💵 $217.98 Estimated AI Cost This Week
+💵 $175.83 Estimated AI Cost This Week
 
-🧠 83 AI Sessions, 241 AI Prompts
+🧠 89 AI Sessions, 254 AI Prompts
 
 Deepseek                 0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Codex-Vscode             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
-📚 Verbose Prompter — average 3,064 characters per prompt
+📚 Verbose Prompter — average 3,126 characters per prompt
 🔁 Iterative Prompter — average 3 prompts per session
 🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
 ```
@@ -108,7 +108,7 @@ Rust                     1 repo              ███░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/little-q-exist/little-q-exist/main/assets/bar_graph.png)
 
 
- Last Updated on 12/09/2026 20:50:39 UTC
+ Last Updated on 13/09/2026 21:04:50 UTC
 <!--END_SECTION:waka-->
 
 <!--
