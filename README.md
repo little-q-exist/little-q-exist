@@ -5,7 +5,7 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-154%20hrs%2012%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-159%20hrs%2044%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-161%20hrs%2030%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/%E8%B5%84%E6%96%99%E9%A1%B5%E6%B5%8F%E8%A7%88%E6%AC%A1%E6%95%B0-0-blue?style=flat)
 
@@ -48,45 +48,45 @@
 🕑︎ 时区: Asia/Shanghai
 
 💬 编程语言: 
-Other                    7 hrs 38 mins       ██████████░░░░░░░░░░░░░░░   41.45 % 
-TypeScript               4 hrs 55 mins       ███████░░░░░░░░░░░░░░░░░░   26.71 % 
-Markdown                 4 hrs 26 mins       ██████░░░░░░░░░░░░░░░░░░░   24.12 % 
-JavaScript               24 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.17 % 
-JSON                     16 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.50 % 
+Other                    8 hrs 30 mins       ████████████░░░░░░░░░░░░░   47.50 % 
+Markdown                 4 hrs 10 mins       ██████░░░░░░░░░░░░░░░░░░░   23.31 % 
+TypeScript               3 hrs 49 mins       █████░░░░░░░░░░░░░░░░░░░░   21.31 % 
+JavaScript               24 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.24 % 
+JSON                     22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.09 % 
 
 🔥 编辑器: 
-VS Code                  18 hrs 26 mins      █████████████████████████   100.00 % 
+VS Code                  17 hrs 55 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 项目: 
-YGCG                     6 hrs 9 mins        ████████░░░░░░░░░░░░░░░░░   33.42 % 
-PRviewer                 4 hrs 53 mins       ███████░░░░░░░░░░░░░░░░░░   26.53 % 
-leetcode                 2 hrs 20 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.68 % 
-interview                1 hr 41 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.16 % 
-Notes                    1 hr 16 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.92 % 
+YGCG                     6 hrs 4 mins        ████████░░░░░░░░░░░░░░░░░   33.92 % 
+PRviewer                 4 hrs 53 mins       ███████░░░░░░░░░░░░░░░░░░   27.31 % 
+interview                2 hrs 58 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.58 % 
+Notes                    1 hr 14 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.94 % 
+leetcode                 50 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.66 % 
 
 💻 操作系统: 
-Windows                  18 hrs 26 mins      █████████████████████████   100.00 % 
+Windows                  17 hrs 55 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 11 hrs 46 mins (63.87%)
+⏱ AI Coding Time: 11 hrs 57 mins (66.7%)
 
-✍️ 0 lines written by AI, 578 lines written by hand (0.0% AI-written)
+✍️ 0 lines written by AI, 432 lines written by hand (0.0% AI-written)
 
-🔤 2,863,517 Input Tokens, 852,040 Output Tokens
+🔤 2,691,810 Input Tokens, 790,890 Output Tokens
 
-💵 $175.83 Estimated AI Cost This Week
+💵 $122.57 Estimated AI Cost This Week
 
-🧠 89 AI Sessions, 254 AI Prompts
+🧠 99 AI Sessions, 271 AI Prompts
 
 Deepseek                 0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Codex-Vscode             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
-📚 Verbose Prompter — average 3,126 characters per prompt
+📚 Verbose Prompter — average 2,660 characters per prompt
 🔁 Iterative Prompter — average 3 prompts per session
 🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
 ```
@@ -108,7 +108,7 @@ Rust                     1 repo              ███░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/little-q-exist/little-q-exist/main/assets/bar_graph.png)
 
 
- Last Updated on 13/09/2026 21:04:50 UTC
+ Last Updated on 14/09/2026 21:59:07 UTC
 <!--END_SECTION:waka-->
 
 <!--
