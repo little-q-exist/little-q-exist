@@ -3,9 +3,9 @@
 这里小Q！大学生。目前正在学习 TS 全栈开发。
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-171%20hrs%2023%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-174%20hrs%2038%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-171%20hrs%2051%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-173%20hrs%2023%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/%E8%B5%84%E6%96%99%E9%A1%B5%E6%B5%8F%E8%A7%88%E6%AC%A1%E6%95%B0-10-blue?style=flat)
 
@@ -48,45 +48,45 @@
 🕑︎ 时区: Asia/Shanghai
 
 💬 编程语言: 
-JavaScript               8 hrs 51 mins       ██████████░░░░░░░░░░░░░░░   39.24 % 
-Markdown                 6 hrs 42 mins       ███████░░░░░░░░░░░░░░░░░░   29.73 % 
-Other                    5 hrs 39 mins       ██████░░░░░░░░░░░░░░░░░░░   25.07 % 
-TypeScript               50 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.72 % 
-HTML                     12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.92 % 
+JavaScript               7 hrs 9 mins        █████████░░░░░░░░░░░░░░░░   34.94 % 
+Markdown                 6 hrs 38 mins       ████████░░░░░░░░░░░░░░░░░   32.46 % 
+Other                    6 hrs 16 mins       ████████░░░░░░░░░░░░░░░░░   30.68 % 
+HTML                     12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.01 % 
+Text                     4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.40 % 
 
 🔥 编辑器: 
-VS Code                  22 hrs 35 mins      █████████████████████████   100.00 % 
+VS Code                  20 hrs 28 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 项目: 
-YGCG                     12 hrs 57 mins      ██████████████░░░░░░░░░░░   57.35 % 
-interview                6 hrs 24 mins       ███████░░░░░░░░░░░░░░░░░░   28.36 % 
-PRviewer                 2 hrs 41 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.94 % 
-ygcg-frontend            24 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.82 % 
-mi-a                     4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.37 % 
+YGCG                     13 hrs 34 mins      █████████████████░░░░░░░░   66.30 % 
+interview                6 hrs 22 mins       ████████░░░░░░░░░░░░░░░░░   31.11 % 
+ygcg-frontend            24 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   02.00 % 
+mi-a                     4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.40 % 
+Unknown Project          2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 % 
 
 💻 操作系统: 
-Windows                  22 hrs 35 mins      █████████████████████████   100.00 % 
+Windows                  20 hrs 28 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 8 hrs 35 mins (38.01%)
+⏱ AI Coding Time: 9 hrs 6 mins (44.51%)
 
-✍️ 0 lines written by AI, 2,686 lines written by hand (0.0% AI-written)
+✍️ 0 lines written by AI, 2,320 lines written by hand (0.0% AI-written)
 
-🔤 943,553 Input Tokens, 653,717 Output Tokens
+🔤 925,394 Input Tokens, 651,087 Output Tokens
 
-💵 $81.05 Estimated AI Cost This Week
+💵 $82.35 Estimated AI Cost This Week
 
-🧠 68 AI Sessions, 225 AI Prompts
+🧠 64 AI Sessions, 225 AI Prompts
 
 Codex-Vscode             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
-📄 Detailed Prompter — average 1,391 characters per prompt
-🔁 Iterative Prompter — average 3 prompts per session
+📄 Detailed Prompter — average 1,272 characters per prompt
+🔁 Iterative Prompter — average 4 prompts per session
 🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
 ```
 
@@ -107,7 +107,7 @@ Rust                     1 repo              ███░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/little-q-exist/little-q-exist/main/assets/bar_graph.png)
 
 
- Last Updated on 23/09/2026 21:42:52 UTC
+ Last Updated on 24/09/2026 21:44:18 UTC
 <!--END_SECTION:waka-->
 
 <!--
