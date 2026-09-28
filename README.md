@@ -48,42 +48,42 @@
 🕑︎ 时区: Asia/Shanghai
 
 💬 编程语言: 
-Markdown                 4 hrs 21 mins       █████████████░░░░░░░░░░░░   51.50 % 
-Other                    2 hrs 20 mins       ███████░░░░░░░░░░░░░░░░░░   27.63 % 
-JavaScript               1 hr 25 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.90 % 
-HTML                     12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.46 % 
-CSS                      4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.92 % 
+Markdown                 2 hrs 49 mins       ██████████████░░░░░░░░░░░   55.13 % 
+Other                    1 hr 45 mins        █████████░░░░░░░░░░░░░░░░   34.33 % 
+JavaScript               13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.47 % 
+HTML                     12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.04 % 
+CSS                      4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.52 % 
 
 🔥 编辑器: 
-VS Code                  8 hrs 26 mins       █████████████████████████   100.00 % 
+VS Code                  5 hrs 8 mins        █████████████████████████   100.00 % 
 
 🐱‍💻 项目: 
-YGCG                     4 hrs 21 mins       █████████████░░░░░░░░░░░░   51.54 % 
-interview                3 hrs 40 mins       ███████████░░░░░░░░░░░░░░   43.60 % 
-ygcg-frontend            24 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.86 % 
+YGCG                     2 hrs 47 mins       ██████████████░░░░░░░░░░░   54.43 % 
+interview                1 hr 55 mins        █████████░░░░░░░░░░░░░░░░   37.58 % 
+ygcg-frontend            24 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.99 % 
 
 💻 操作系统: 
-Windows                  8 hrs 26 mins       █████████████████████████   100.00 % 
+Windows                  5 hrs 8 mins        █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 4 hrs 3 mins (48.06%)
+⏱ AI Coding Time: 3 hrs 3 mins (59.5%)
 
-✍️ 0 lines written by AI, 434 lines written by hand (0.0% AI-written)
+✍️ 0 lines written by AI, 305 lines written by hand (0.0% AI-written)
 
-🔤 388,073 Input Tokens, 281,376 Output Tokens
+🔤 162,225 Input Tokens, 136,328 Output Tokens
 
-💵 $35.00 Estimated AI Cost This Week
+💵 $18.61 Estimated AI Cost This Week
 
-🧠 18 AI Sessions, 75 AI Prompts
+🧠 12 AI Sessions, 51 AI Prompts
 
 Codex-Vscode             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
-📄 Detailed Prompter — average 1,325 characters per prompt
+📄 Detailed Prompter — average 638 characters per prompt
 🔁 Iterative Prompter — average 4 prompts per session
 🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
 ```
@@ -105,7 +105,7 @@ Rust                     1 repo              ███░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/little-q-exist/little-q-exist/main/assets/bar_graph.png)
 
 
- Last Updated on 27/09/2026 21:32:27 UTC
+ Last Updated on 28/09/2026 23:27:50 UTC
 <!--END_SECTION:waka-->
 
 <!--
