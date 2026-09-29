@@ -3,9 +3,9 @@
 这里小Q！大学生。目前正在学习 TS 全栈开发。
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-174%20hrs%2038%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-174%20hrs%2040%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-173%20hrs%2023%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-173%20hrs%2028%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/%E8%B5%84%E6%96%99%E9%A1%B5%E6%B5%8F%E8%A7%88%E6%AC%A1%E6%95%B0-10-blue?style=flat)
 
@@ -48,43 +48,43 @@
 🕑︎ 时区: Asia/Shanghai
 
 💬 编程语言: 
-Markdown                 2 hrs 49 mins       ██████████████░░░░░░░░░░░   55.13 % 
-Other                    1 hr 45 mins        █████████░░░░░░░░░░░░░░░░   34.33 % 
-JavaScript               13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.47 % 
-HTML                     12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.04 % 
-CSS                      4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.52 % 
+Markdown                 2 hrs 45 mins       ███████████████████░░░░░░   75.46 % 
+Other                    21 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.73 % 
+JavaScript               13 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.29 % 
+HTML                     12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.68 % 
+CSS                      4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.14 % 
 
 🔥 编辑器: 
-VS Code                  5 hrs 8 mins        █████████████████████████   100.00 % 
+VS Code                  3 hrs 39 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 项目: 
-YGCG                     2 hrs 47 mins       ██████████████░░░░░░░░░░░   54.43 % 
-interview                1 hr 55 mins        █████████░░░░░░░░░░░░░░░░   37.58 % 
-ygcg-frontend            24 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.99 % 
+interview                1 hr 51 mins        █████████████░░░░░░░░░░░░   50.80 % 
+YGCG                     1 hr 23 mins        █████████░░░░░░░░░░░░░░░░   37.97 % 
+ygcg-frontend            24 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.23 % 
 
 💻 操作系统: 
-Windows                  5 hrs 8 mins        █████████████████████████   100.00 % 
+Windows                  3 hrs 39 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 3 hrs 3 mins (59.5%)
+⏱ AI Coding Time: 1 hr 37 mins (44.57%)
 
 ✍️ 0 lines written by AI, 305 lines written by hand (0.0% AI-written)
 
-🔤 162,225 Input Tokens, 136,328 Output Tokens
+🔤 79,455 Input Tokens, 63,646 Output Tokens
 
-💵 $18.61 Estimated AI Cost This Week
+💵 $8.85 Estimated AI Cost This Week
 
-🧠 12 AI Sessions, 51 AI Prompts
+🧠 9 AI Sessions, 27 AI Prompts
 
 Codex-Vscode             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
-📄 Detailed Prompter — average 638 characters per prompt
-🔁 Iterative Prompter — average 4 prompts per session
+📄 Detailed Prompter — average 1,102 characters per prompt
+🔁 Iterative Prompter — average 3 prompts per session
 🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
 ```
 
@@ -105,7 +105,7 @@ Rust                     1 repo              ███░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/little-q-exist/little-q-exist/main/assets/bar_graph.png)
 
 
- Last Updated on 28/09/2026 23:27:50 UTC
+ Last Updated on 29/09/2026 22:32:50 UTC
 <!--END_SECTION:waka-->
 
 <!--
