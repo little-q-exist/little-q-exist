@@ -48,25 +48,27 @@
 🕑︎ 时区: Asia/Shanghai
 
 💬 编程语言: 
-Other                    3 mins              ███████████████░░░░░░░░░░   60.37 % 
-Markdown                 2 mins              ██████████░░░░░░░░░░░░░░░   39.63 % 
+HTML                     13 mins             █████████████████░░░░░░░░   68.88 % 
+Other                    3 mins              █████░░░░░░░░░░░░░░░░░░░░   18.79 % 
+Markdown                 2 mins              ███░░░░░░░░░░░░░░░░░░░░░░   12.33 % 
 
 🔥 编辑器: 
-VS Code                  5 mins              █████████████████████████   100.00 % 
+VS Code                  19 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 项目: 
-YGCG                     3 mins              ██████████████░░░░░░░░░░░   54.93 % 
-interview                2 mins              ██████████░░░░░░░░░░░░░░░   39.63 % 
-dan                      0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   05.44 % 
+course2md-result         13 mins             █████████████████░░░░░░░░   68.88 % 
+YGCG                     3 mins              ████░░░░░░░░░░░░░░░░░░░░░   17.10 % 
+interview                2 mins              ███░░░░░░░░░░░░░░░░░░░░░░   12.33 % 
+dan                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.69 % 
 
 💻 操作系统: 
-Windows                  5 mins              █████████████████████████   100.00 % 
+Windows                  19 mins             █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 5 mins (100.0%)
+⏱ AI Coding Time: 5 mins (31.12%)
 
 ✍️ 0 lines written by AI, 0 lines written by hand (0% AI-written)
 
@@ -102,7 +104,7 @@ Rust                     1 repo              ███░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/little-q-exist/little-q-exist/main/assets/bar_graph.png)
 
 
- Last Updated on 03/10/2026 21:42:02 UTC
+ Last Updated on 04/10/2026 21:51:06 UTC
 <!--END_SECTION:waka-->
 
 <!--
