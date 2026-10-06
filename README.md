@@ -24,21 +24,21 @@
 **我是早鸟 🐤** 
 
 ```text
-🌞 早晨                     607 commits         ██████░░░░░░░░░░░░░░░░░░░   24.16 % 
-🌆 白天                     1109 commits        ███████████░░░░░░░░░░░░░░   44.15 % 
-🌃 傍晚                     796 commits         ████████░░░░░░░░░░░░░░░░░   31.69 % 
+🌞 早晨                     625 commits         ██████░░░░░░░░░░░░░░░░░░░   23.84 % 
+🌆 白天                     1156 commits        ███████████░░░░░░░░░░░░░░   44.09 % 
+🌃 傍晚                     841 commits         ████████░░░░░░░░░░░░░░░░░   32.07 % 
 🌙 晚上                     0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 ```
 📅 **星期日 时的我最有干劲** 
 
 ```text
-星期一                      327 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.02 % 
-星期二                      446 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.75 % 
-星期三                      311 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.38 % 
-星期四                      210 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.36 % 
-星期五                      333 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.26 % 
-星期六                      405 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.12 % 
-星期日                      480 commits         █████░░░░░░░░░░░░░░░░░░░░   19.11 % 
+星期一                      327 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.47 % 
+星期二                      461 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.58 % 
+星期三                      318 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.13 % 
+星期四                      210 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.01 % 
+星期五                      356 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.58 % 
+星期六                      431 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.44 % 
+星期日                      519 commits         █████░░░░░░░░░░░░░░░░░░░░   19.79 % 
 ```
 
 
@@ -48,22 +48,40 @@
 🕑︎ 时区: Asia/Shanghai
 
 💬 编程语言: 
-HTML                     13 mins             █████████████████████████   100.00 % 
+Other                    30 mins             ██████████████████░░░░░░░   70.21 % 
+HTML                     13 mins             ███████░░░░░░░░░░░░░░░░░░   29.79 % 
 
 🔥 编辑器: 
-VS Code                  13 mins             █████████████████████████   100.00 % 
+VS Code                  43 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 项目: 
-course2md-result         13 mins             █████████████████████████   100.00 % 
+course2md-result         35 mins             ████████████████████░░░░░   80.99 % 
+ML                       8 mins              █████░░░░░░░░░░░░░░░░░░░░   19.01 % 
 
 💻 操作系统: 
-Windows                  13 mins             █████████████████████████   100.00 % 
+Windows                  43 mins             █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-No AI Coding Activity Tracked This Week
+⏱ AI Coding Time: 30 mins (70.21%)
+
+✍️ 0 lines written by AI, 0 lines written by hand (0% AI-written)
+
+🔤 103,209 Input Tokens, 49,484 Output Tokens
+
+💵 $17.45 Estimated AI Cost This Week
+
+🧠 2 AI Sessions, 11 AI Prompts
+
+Codex-Vscode             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+
+🔎 AI Coding Insights:
+🧑‍💻 Mostly Hands-On — 0% of written lines came from AI
+📚 Verbose Prompter — average 9,582 characters per prompt
+🔁 Iterative Prompter — average 6 prompts per session
+🚀 High AI Trust — 0% of changed lines were hand-edited
 ```
 
 **我最常使用 TypeScript** 
@@ -83,7 +101,7 @@ Rust                     1 repo              ███░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/little-q-exist/little-q-exist/main/assets/bar_graph.png)
 
 
- Last Updated on 06/10/2026 00:16:29 UTC
+ Last Updated on 06/10/2026 22:45:58 UTC
 <!--END_SECTION:waka-->
 
 <!--
