@@ -48,23 +48,21 @@
 🕑︎ 时区: Asia/Shanghai
 
 💬 编程语言: 
-HTML                     13 mins             ███████████░░░░░░░░░░░░░░   44.36 % 
-TypeScript               7 mins              ███████░░░░░░░░░░░░░░░░░░   26.18 % 
-Markdown                 6 mins              █████░░░░░░░░░░░░░░░░░░░░   21.78 % 
-Bash                     1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   05.06 % 
-Git Config               0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   02.62 % 
+TypeScript               7 mins              ████████████░░░░░░░░░░░░░   47.06 % 
+Markdown                 6 mins              ██████████░░░░░░░░░░░░░░░   39.14 % 
+Bash                     1 min               ██░░░░░░░░░░░░░░░░░░░░░░░   09.10 % 
+Git Config               0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   04.70 % 
 
 🔥 编辑器: 
-VS Code                  29 mins             █████████████████████████   100.00 % 
+VS Code                  16 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 项目: 
-course2md-result         13 mins             ███████████░░░░░░░░░░░░░░   44.36 % 
-PRviewer                 9 mins              ████████░░░░░░░░░░░░░░░░░   30.92 % 
-recite-word-server       5 mins              █████░░░░░░░░░░░░░░░░░░░░   18.41 % 
-recite-word              1 min               ██░░░░░░░░░░░░░░░░░░░░░░░   06.31 % 
+PRviewer                 9 mins              ██████████████░░░░░░░░░░░   55.57 % 
+recite-word-server       5 mins              ████████░░░░░░░░░░░░░░░░░   33.09 % 
+recite-word              1 min               ███░░░░░░░░░░░░░░░░░░░░░░   11.34 % 
 
 💻 操作系统: 
-Windows                  29 mins             █████████████████████████   100.00 % 
+Windows                  16 mins             █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -90,7 +88,7 @@ Rust                     1 repo              ███░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/little-q-exist/little-q-exist/main/assets/bar_graph.png)
 
 
- Last Updated on 10/10/2026 21:57:50 UTC
+ Last Updated on 11/10/2026 22:22:34 UTC
 <!--END_SECTION:waka-->
 
 <!--
