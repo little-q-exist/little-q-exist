@@ -48,21 +48,22 @@
 🕑︎ 时区: Asia/Shanghai
 
 💬 编程语言: 
-TypeScript               7 mins              ████████████░░░░░░░░░░░░░   47.06 % 
-Markdown                 6 mins              ██████████░░░░░░░░░░░░░░░   39.14 % 
-Bash                     1 min               ██░░░░░░░░░░░░░░░░░░░░░░░   09.10 % 
-Git Config               0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   04.70 % 
+TypeScript               7 mins              ███████████░░░░░░░░░░░░░░   43.93 % 
+Markdown                 6 mins              █████████░░░░░░░░░░░░░░░░   36.54 % 
+Git Config               1 min               ███░░░░░░░░░░░░░░░░░░░░░░   11.03 % 
+Bash                     1 min               ██░░░░░░░░░░░░░░░░░░░░░░░   08.50 % 
 
 🔥 编辑器: 
-VS Code                  16 mins             █████████████████████████   100.00 % 
+VS Code                  17 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 项目: 
-PRviewer                 9 mins              ██████████████░░░░░░░░░░░   55.57 % 
-recite-word-server       5 mins              ████████░░░░░░░░░░░░░░░░░   33.09 % 
-recite-word              1 min               ███░░░░░░░░░░░░░░░░░░░░░░   11.34 % 
+PRviewer                 9 mins              █████████████░░░░░░░░░░░░   51.88 % 
+recite-word-server       5 mins              ████████░░░░░░░░░░░░░░░░░   30.90 % 
+recite-word              1 min               ███░░░░░░░░░░░░░░░░░░░░░░   10.58 % 
+ML                       1 min               ██░░░░░░░░░░░░░░░░░░░░░░░   06.64 % 
 
 💻 操作系统: 
-Windows                  16 mins             █████████████████████████   100.00 % 
+Windows                  17 mins             █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -88,7 +89,7 @@ Rust                     1 repo              ███░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/little-q-exist/little-q-exist/main/assets/bar_graph.png)
 
 
- Last Updated on 13/10/2026 23:03:00 UTC
+ Last Updated on 14/10/2026 21:54:33 UTC
 <!--END_SECTION:waka-->
 
 <!--
