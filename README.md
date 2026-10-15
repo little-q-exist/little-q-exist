@@ -3,7 +3,7 @@
 这里小Q！大学生。目前正在学习 TS 全栈开发。
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-175%20hrs%2010%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-175%20hrs%2011%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-173%20hrs%2028%20mins-blue?style=flat)
 
@@ -48,22 +48,20 @@
 🕑︎ 时区: Asia/Shanghai
 
 💬 编程语言: 
-TypeScript               7 mins              ███████████░░░░░░░░░░░░░░   43.93 % 
-Markdown                 6 mins              █████████░░░░░░░░░░░░░░░░   36.54 % 
-Git Config               1 min               ███░░░░░░░░░░░░░░░░░░░░░░   11.03 % 
-Bash                     1 min               ██░░░░░░░░░░░░░░░░░░░░░░░   08.50 % 
+TypeScript               3 mins              ███████████░░░░░░░░░░░░░░   42.09 % 
+Markdown                 2 mins              ████████░░░░░░░░░░░░░░░░░   30.91 % 
+Git Config               1 min               ████░░░░░░░░░░░░░░░░░░░░░   14.24 % 
+Bash                     1 min               ███░░░░░░░░░░░░░░░░░░░░░░   12.76 % 
 
 🔥 编辑器: 
-VS Code                  17 mins             █████████████████████████   100.00 % 
+VS Code                  8 mins              █████████████████████████   100.00 % 
 
 🐱‍💻 项目: 
-PRviewer                 9 mins              █████████████░░░░░░░░░░░░   51.88 % 
-recite-word-server       5 mins              ████████░░░░░░░░░░░░░░░░░   30.90 % 
-recite-word              1 min               ███░░░░░░░░░░░░░░░░░░░░░░   10.58 % 
-ML                       1 min               ██░░░░░░░░░░░░░░░░░░░░░░░   06.64 % 
+PRviewer                 7 mins              █████████████████████░░░░   85.76 % 
+ML                       1 min               ████░░░░░░░░░░░░░░░░░░░░░   14.24 % 
 
 💻 操作系统: 
-Windows                  17 mins             █████████████████████████   100.00 % 
+Windows                  8 mins              █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -89,7 +87,7 @@ Rust                     1 repo              ███░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/little-q-exist/little-q-exist/main/assets/bar_graph.png)
 
 
- Last Updated on 14/10/2026 21:54:33 UTC
+ Last Updated on 15/10/2026 21:41:13 UTC
 <!--END_SECTION:waka-->
 
 <!--
