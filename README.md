@@ -48,20 +48,16 @@
 🕑︎ 时区: Asia/Shanghai
 
 💬 编程语言: 
-TypeScript               3 mins              ███████████░░░░░░░░░░░░░░   42.09 % 
-Markdown                 2 mins              ████████░░░░░░░░░░░░░░░░░   30.91 % 
-Git Config               1 min               ████░░░░░░░░░░░░░░░░░░░░░   14.24 % 
-Bash                     1 min               ███░░░░░░░░░░░░░░░░░░░░░░   12.76 % 
+Git Config               1 min               █████████████████████████   100.00 % 
 
 🔥 编辑器: 
-VS Code                  8 mins              █████████████████████████   100.00 % 
+VS Code                  1 min               █████████████████████████   100.00 % 
 
 🐱‍💻 项目: 
-PRviewer                 7 mins              █████████████████████░░░░   85.76 % 
-ML                       1 min               ████░░░░░░░░░░░░░░░░░░░░░   14.24 % 
+ML                       1 min               █████████████████████████   100.00 % 
 
 💻 操作系统: 
-Windows                  8 mins              █████████████████████████   100.00 % 
+Windows                  1 min               █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -87,7 +83,7 @@ Rust                     1 repo              ███░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/little-q-exist/little-q-exist/main/assets/bar_graph.png)
 
 
- Last Updated on 15/10/2026 21:41:13 UTC
+ Last Updated on 16/10/2026 21:36:42 UTC
 <!--END_SECTION:waka-->
 
 <!--
